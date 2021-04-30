@@ -8,11 +8,11 @@ Below you’ll find a list of the major groups and teams within the company. The
 
 **Andrea LaRowe** is Basecamp’s Head of People Ops. Andrea works with Jason and David to make working at Basecamp an excellent experience for its employees. She manages the day-to-day operations of the company, human resources, benefits & payroll administration, and event planning. Andrea is often the best person to tap first, when you don’t know who to talk to about a problem.
 
-Navid Afshar is Basecamp’s admin assistant. He assists Andrea with all administrative operations, and he’s primarily responsible for bookkeeping, supporting tax-related work, and coordinating the details for our meetups. Navid is another great person to ping if you don’t know where to go with a question.
+Navid Afshar was Basecamp’s admin assistant. He assisted Andrea with all administrative operations, and he was primarily responsible for bookkeeping, supporting tax-related work, and coordinating the details for our meetups. Navid was another great person to ping if you don’t know where to go with a question.
 
 ### Customer Support (aka Team OMG)
 
-**Kristin Aardsma** is the head of the customer support team. She’s responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consists of Jabari Allen, Ashley Bowe, Haas Cavazos, Sylvia Chong, Chase Clemons, Merissa Dawson, Shanae Dykes, Tony Giang, James Glazebrook, Elizabeth Gramm, Chris Joyce, Lexi Kent-Monning, Marcia Deidra Boland, Jim Mackenzie, Willow Moline, Jayne Ogilvie, and Joan Stewart.
+**Kristin Aardsma** was the head of the customer support team. She was responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consisted of Jabari Allen, Ashley Bowe, Haas Cavazos, Sylvia Chong, Chase Clemons, Merissa Dawson, Shanae Dykes, Tony Giang, ~~James Glazebrook~~, Elizabeth Gramm, Chris Joyce, ~~Lexi Kent-Monning~~, Marcia Deidra Boland, Jim Mackenzie, ~~Willow Moline~~, Jayne Ogilvie, and Joan Stewart.
 
 ### Executive
 
@@ -32,19 +32,19 @@ Our data analyst is **Jane Yang**. She is responsible for testing and analyzing 
 
 ### Design
 
-The design group is led by **Jonas Downey** and consists of four teams:
+The design group was led by **Jonas Downey** and consists of four teams:
 
 #### Brand & Experience
 
-While our product design teams are focused on our apps, the Brand & Experience team is responsible for everything else; designing/developing/copywriting our public-facing websites, branding, merch, books, collateral, illustration, animation, UI explorations, prototyping, etc. **Adam Stoddard** is the only person this team.
+While our product design teams are focused on our apps, the Brand & Experience team is responsible for everything else; designing/developing/copywriting our public-facing websites, branding, merch, books, collateral, illustration, animation, UI explorations, prototyping, etc. **Adam Stoddard** was the only person this team.
 
 #### Mobile
 
-**Jamie Dihiansan** is our Android designer, and **Conor Muirhead** designs for the iOS team.
+**Jamie Dihiansan** was our Android designer, and **Conor Muirhead** designed for the iOS team.
 
 #### Web/Desktop
 
-**Jonas Downey**, Tassia Pellegrini, Scott Upton, and Jason Zimdars are responsible for any Basecamp product design on the web or the native desktop app.
+~~**Jonas Downey**~~, Tassia Pellegrini, Scott Upton, and Jason Zimdars are responsible for any Basecamp product design on the web or the native desktop app.
 
 #### Video/motion
 
@@ -60,19 +60,19 @@ The programming group is led by **David Heinemeier Hansson** and consists of fou
 
 #### Core Product
 
-Core Product works on new features for Basecamp together with the product designers. They’re also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Jamis Buck, Daniel Colson, Kasper Timm Hansen, and Pratik Naik.
+Core Product works on new features for Basecamp together with the product designers. They’re also responsible for the user-facing backend systems such as Queenbee, 37id, and the API. **Jeff Hardy** is the team lead and works with Jamis Buck, ~~Daniel Colson~~, ~~Kasper Timm Hansen~~, and Pratik Naik.
 
 #### Mobile
 
-Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. **Jay Ohms** is team lead and works with Dan Kim on Basecamp’s native Android app. **Zach Waugh** is the team lead and works with Dylan Ginsburg to develop our Basecamp iOS app.
+Basecamp 3 was the first version of Basecamp that launched with two complete, awesome native applications for Android and iOS on day one. That was only possible because we dedicated stable teams to both efforts. **Jay Ohms** is team lead and works with Dan Kim on Basecamp’s native Android app. **Zach Waugh** was the team lead and worked with Dylan Ginsburg to develop our Basecamp iOS app.
 
 #### Research & Fidelity (RF)
 
-Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Hotwire](https://hotwire.dev) were both born from RF. They work on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** is the team lead and works with Sam Stephenson.
+Our [rich text editor Trix](https://trix-editor.org) and our [front-end framework Hotwire](https://hotwire.dev) were both born from RF. They worked on deep research projects like those two, but also on all manners of UI fidelity in general. That means a lot of JavaScript, but also integrating that with our Ruby and native code. **Javan Makhmali** was the team lead and worked with Sam Stephenson.
 
 #### Security, Infrastructure & Performance (SIP)
 
-SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with George Claghorn, Jorge Manrubia, and Rosa Gutiérrez.
+SIP is our instant-response team whenever something goes wrong, is about to go wrong, or is expected soon to go wrong! Our galaxy defenders, if you will. They are the primary programming team working together with Operations to ensure that our applications are always safe, secure, and fast. **Jeremy Daer** is the team lead and works with ~~George Claghorn~~, Jorge Manrubia, and Rosa Gutiérrez.
 
 ### QA and Accessibility
 
@@ -80,20 +80,21 @@ Before we ship a new feature, **Michael Berger** is our resident bug squasher. H
 
 ### The REWORK Podcast
 
-[REWORK](https://rework.fm) is a Basecamp-produced podcast based on the 2010 book by Jason and David. **Wailin Wong** and **Shaun Hildner** co-produce and co-host the show. They previously co-produced [The Distance](https://thedistance.com), a podcast that ran for three years and showcased small businesses that have been operating for at least 25 years.
+[REWORK](https://rework.fm) is a Basecamp-produced podcast based on the 2010 book by Jason and David. ~~**Wailin Wong**~~ and **Shaun Hildner** co-produce and co-host the show. They previously co-produced [The Distance](https://thedistance.com), a podcast that ran for three years and showcased small businesses that have been operating for at least 25 years.
 
 ### Technical Operations
 
 The technical operations group is led by **Troy Toman** and consists of three focus areas.
 - On-prem operations and monitoring: **Eron Nicholson** with Silvia Uberti and Matthew Vincent
 - HEY and database operations: **Matt Kent** with Fernando Álvarez and Nathan Anderson 
-- Operational preparedness and resilience: **John Williams** with Farah Schüller and Blake Stoddard
+- Operational preparedness and resilience: **John Williams** with Farah Schüller and ~~Blake Stoddard~~
 
 While these focus areas help the team coordinate day-to-day and focus their priorities, no one is limited to one area of work.
 
 ### Working Groups
 
-We have several cross-department working groups at Basecamp with different mandates. These include Greening Basecamp (environmental sustainability); Corporate Civic Engagement (1% giving and more); Moral Quandaries (investigating abuse cases); and Diversity, Equity, and Inclusion (increasing and retaining diversity at Basecamp). Basecampers can find the full list of internal working groups and membership in our HQ Reference Materials.
+~~We have several cross-department working groups at Basecamp with different mandates. These include Greening Basecamp (environmental sustainability); Corporate Civic Engagement (1% giving and more); Moral Quandaries (investigating abuse cases); and Diversity, Equity, and Inclusion (increasing and retaining diversity at Basecamp). Basecampers can find the full list of internal working groups and membership in our HQ Reference Materials.~~
 
 ### The Small Council
-Basecamp has an executive advisory team that meets with Jason and David every few months called The Small Council. It’s made up of department heads Kristin Aardsma (Customer Support), Jeremy Daer (SIP), Jonas Downey (Design), Jeff Hardy (Core Programming), Andrea LaRowe (People Ops), and Troy Toman (Ops). The Small Council talk through high-level issues facing the company, its employees, and its customers. Each member is expected to represent their respective areas so Jason and David have a comprehensive view of how big decisions will affect different aspects of Basecamp.
+
+~~Basecamp has an executive advisory team that meets with Jason and David every few months called The Small Council. It’s made up of department heads Kristin Aardsma (Customer Support), Jeremy Daer (SIP), Jonas Downey (Design), Jeff Hardy (Core Programming), Andrea LaRowe (People Ops), and Troy Toman (Ops). The Small Council talk through high-level issues facing the company, its employees, and its customers. Each member is expected to represent their respective areas so Jason and David have a comprehensive view of how big decisions will affect different aspects of Basecamp.~~
