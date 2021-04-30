@@ -12,7 +12,7 @@ Navid Afshar was Basecamp’s admin assistant. He assisted Andrea with all admin
 
 ### Customer Support (aka Team OMG)
 
-**Kristin Aardsma** was the head of the customer support team. She was responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consisted of Jabari Allen, Ashley Bowe, Haas Cavazos, Sylvia Chong, Chase Clemons, Merissa Dawson, Shanae Dykes, Tony Giang, ~~James Glazebrook~~, Elizabeth Gramm, Chris Joyce, ~~Lexi Kent-Monning~~, Marcia Deidra Boland, Jim Mackenzie, ~~Willow Moline~~, Jayne Ogilvie, and Joan Stewart.
+**Kristin Aardsma** was the head of the customer support team. She was responsible for the entire customer support team which uses [Help Scout](https://www.helpscout.net) to respond to customer tickets. Her team consisted of Jabari Allen, Ashley Bowe, Haas Cavazos, Sylvia Chong, Chase Clemons, Merissa Dawson, Shanae Dykes, Tony Giang, ~~James Glazebrook~~, ~~Elizabeth Gramm~~, Chris Joyce, ~~Lexi Kent-Monning~~, Marcia Deidra Boland, Jim Mackenzie, ~~Willow Moline~~, Jayne Ogilvie, and Joan Stewart.
 
 ### Executive
 
