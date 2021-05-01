@@ -36,7 +36,7 @@ The design group was led by **Jonas Downey** and consists of four teams:
 
 #### Brand & Experience
 
-While our product design teams are focused on our apps, the Brand & Experience team is responsible for everything else; designing/developing/copywriting our public-facing websites, branding, merch, books, collateral, illustration, animation, UI explorations, prototyping, etc. **Adam Stoddard** was the only person this team.
+While our product design teams are focused on our apps, the Brand & Experience team is responsible for everything else; designing/developing/copywriting our public-facing websites, branding, merch, books, collateral, illustration, animation, UI explorations, prototyping, etc. **Adam Stoddard** was the only person on this team.
 
 #### Mobile
 
